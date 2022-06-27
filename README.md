@@ -34,8 +34,6 @@
    <h5>Others</h5>
       <img height="30px  width="40"" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
       <img height="30px  width="40"" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
-      <img align="right" alt="Jan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/768648418163032134/961247489367879780/Jan.png?width=432&height=432">  
-  </div>
-  
+      <img align="right" alt="Jan-pic" height="150" style="border-radius:50px;" 
      
  
